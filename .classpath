@@ -2,6 +2,10 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/360682/Documents/poi-bin-3.14/poi-3.14/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="D:/java/JavaExcelReader/lib/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/java/JavaExcelReader/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/java/JavaExcelReader/lib/hsqldb.jar"/>
+	<classpathentry kind="lib" path="D:/java/JavaExcelReader/lib/jackcess-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/java/JavaExcelReader/lib/poi-3.14-20160307.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
